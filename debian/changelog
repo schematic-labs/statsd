@@ -1,3 +1,8 @@
+statsd (0.0.3-1) unstable; urgency=low
+  * removed gauges prepend
+
+ -- Eric Sabban <eric@schematiclabs.net>  Fri, 02 Nov 2012 02:11:13 -0800
+
 statsd (0.0.3) unstable; urgency=low
 
   * removed rdio references from init scripts and config
